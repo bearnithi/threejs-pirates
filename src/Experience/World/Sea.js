@@ -1,7 +1,7 @@
 import * as THREE from "three";
 import { Experience } from "../Experience";
-import waterVertexShader from "../../shaders/water/vertex.glsl";
-import waterFragmentShader from "../../shaders/water/fragment.glsl";
+import waterVertexShader from "../shaders/water/vertex.glsl";
+import waterFragmentShader from "../shaders/water/fragment.glsl";
 
 export default class Sea {
   constructor() {

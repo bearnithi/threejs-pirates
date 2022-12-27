@@ -30,7 +30,7 @@ export default class SceneAudioPlayer {
         this.sound.setLoop(true);
         this.sound.setVolume(0.8);
         if (!this.sound.isPlaying) {
-        //   this.sound.play();
+          this.sound.play();
         }
       },
       function (err) {
