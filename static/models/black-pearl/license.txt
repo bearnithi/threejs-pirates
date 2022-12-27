@@ -1,0 +1,11 @@
+Model Information:
+* title:	Black pearl ship
+* source:	https://sketchfab.com/3d-models/black-pearl-ship-0b04b81875614292abd7916d577776e1
+* author:	Virenimation (https://sketchfab.com/virenimation)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Black pearl ship" (https://sketchfab.com/3d-models/black-pearl-ship-0b04b81875614292abd7916d577776e1) by Virenimation (https://sketchfab.com/virenimation) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
